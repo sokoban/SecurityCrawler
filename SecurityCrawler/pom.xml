@@ -177,7 +177,7 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
-
+-->
 		<dependency>
 		    <groupId>org.apache.ibatis</groupId>
 		    <artifactId>ibatis-sqlmap</artifactId>
@@ -195,7 +195,7 @@
 		    <artifactId>mysql-connector-java</artifactId>
 		    <version>5.1.18</version>
 		</dependency>
--->
+
 		<!--  For Mina -->
 		<!-- 
 		<dependency>
